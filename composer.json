@@ -1,0 +1,10 @@
+{
+    "name": "gaok2/composertest",
+    "authors": [
+        {
+            "name": "gaoke",
+            "email": "gaoke@51h5.com"
+        }
+    ],
+    "require": {}
+}
